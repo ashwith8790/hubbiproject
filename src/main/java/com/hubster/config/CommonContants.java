@@ -12,3 +12,5 @@ public interface CommonContants {
 	String LOGIN_SUCCESS ="Authentication successful";
 	String LOGIN_FAIL ="Authentication failure";
 }
+
+
