@@ -1,0 +1,10 @@
+datasource:
+  driverClassName: com.mysql.cj.jdbc.Driver
+  url: jdbc:mysql://hubsterdev.cynquab1s7cl.us-east-1.rds.amazonaws.com:3306/hubsterdevdb
+  username: hubsterdevdb
+  password: hubsterdevdb$$!!
+  
+  
+  
+  
+  
